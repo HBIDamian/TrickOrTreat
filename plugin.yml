@@ -1,0 +1,17 @@
+name: TrickOrTreat
+main: HBIDamian\TrickOrTreat\Main
+version: 1.0.0
+api: 5.0.0
+author: HBIDamian
+description: A fun plugin for Halloween!
+
+commands:
+  trickortreat:
+    description: Trick or treat!
+    usage: /trickortreat
+    permission: trickortreat.use
+
+permissions:
+  trickortreat.use:
+    description: Allows the player to trick or treat
+    default: true

@@ -1,0 +1,4 @@
+# As of the time of writing, the plugin is not really configurable.
+# The only thing you can change is the cooldown for the command.
+
+cooldown: 60
