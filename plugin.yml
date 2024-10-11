@@ -9,9 +9,9 @@ commands:
   trickortreat:
     description: Trick or treat!
     usage: /trickortreat
-    permission: trickortreat.use
+    permission: trickortreat.command
 
 permissions:
-  trickortreat.use:
+  trickortreat.command:
     description: Allows the player to trick or treat
     default: true
